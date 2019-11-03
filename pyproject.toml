@@ -8,6 +8,7 @@ authors = ["Robert Idiatulin"]
 python = "^3.8"
 flask = "^1.1"
 flake8 = "^3.7"
+flask-wtf = "^0.14.2"
 
 [tool.poetry.dev-dependencies]
 
